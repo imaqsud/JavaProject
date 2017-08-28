@@ -1,2 +1,6 @@
-.idea
-JavaProject.iml
+.idea/
+target/
+.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/main/java/com/example/.DS_Store
